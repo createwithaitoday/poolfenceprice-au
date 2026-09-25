@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.*
+!.env.example
+*.log
+.cloudflare
+.cpanel-pass
+scripts/discover.mjs
+site.zip
+cloudflare.json
+credentials.json
+leads
+uploads
+.DS_Store
+Thumbs.db
