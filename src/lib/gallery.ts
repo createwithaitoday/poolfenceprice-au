@@ -7,12 +7,12 @@ export const shots: Shot[] = [
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/241f572c-4989-4894-a438-d2cb79b2eaf9-jpg.jpg",
+    "src": "/images/gallery/241f572c-4989-4894-a438-d2cb79b2eaf9-jpeg.jpg",
     "alt": "Pool fence installed at a Sydney property",
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/colorbond-louvre-pool-fencing-jpg.jpg",
+    "src": "/images/gallery/colorbond-louvre-pool-fencing-jpeg.jpg",
     "alt": "Grey Colorbond fence with a louvre extension beside a pool",
     "cat": "Extensions"
   },
@@ -37,7 +37,7 @@ export const shots: Shot[] = [
     "cat": "Extensions"
   },
   {
-    "src": "/images/gallery/colorbond-fence-extension-22-jpg.jpg",
+    "src": "/images/gallery/colorbond-fence-extension-22-jpeg.jpg",
     "alt": "Colorbond fence extension beside a Sydney pool",
     "cat": "Extensions"
   },
@@ -62,7 +62,7 @@ export const shots: Shot[] = [
     "cat": "Extensions"
   },
   {
-    "src": "/images/gallery/flat-top-fencing-1-jpg.jpg",
+    "src": "/images/gallery/flat-top-fencing-1-jpeg.jpg",
     "alt": "Flat top pool fence",
     "cat": "Black Flat Top"
   },
@@ -77,7 +77,7 @@ export const shots: Shot[] = [
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/flat-top-fencing-2-jpg.jpg",
+    "src": "/images/gallery/flat-top-fencing-2-jpeg.jpg",
     "alt": "Flat top pool fence",
     "cat": "Black Flat Top"
   },
@@ -87,7 +87,7 @@ export const shots: Shot[] = [
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/flat-top-fencing-3-jpg.jpg",
+    "src": "/images/gallery/flat-top-fencing-3-jpeg.jpg",
     "alt": "Flat top pool fence",
     "cat": "Black Flat Top"
   },
@@ -97,7 +97,7 @@ export const shots: Shot[] = [
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/flat-top-fencing-4-jpg.jpg",
+    "src": "/images/gallery/flat-top-fencing-4-jpeg.jpg",
     "alt": "Flat top pool fence",
     "cat": "Black Flat Top"
   },
@@ -107,7 +107,7 @@ export const shots: Shot[] = [
     "cat": "Black Flat Top"
   },
   {
-    "src": "/images/gallery/flat-top-fencing-5-jpg.jpg",
+    "src": "/images/gallery/flat-top-fencing-5-jpeg.jpg",
     "alt": "Flat top pool fence",
     "cat": "Black Flat Top"
   },
@@ -177,7 +177,7 @@ export const shots: Shot[] = [
     "cat": "Extensions"
   },
   {
-    "src": "/images/gallery/timber-fencing-pool-fencing-25-jpg.jpg",
+    "src": "/images/gallery/timber-fencing-pool-fencing-25-jpeg.jpg",
     "alt": "Boundary fencing on a Sydney property",
     "cat": "Completed Projects"
   },
