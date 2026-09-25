@@ -59,7 +59,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
   background: none; border: 0; text-decoration: none;
   padding: 10px 10px; font-size: 14.5px; letter-spacing: 0.01em; cursor: pointer;
 }
-.header-cta { display: none; gap: 8px; align-items: center; }
+.header-cta { display: none; gap: 8px; align-items: center; white-space: nowrap; }
 .menu-toggle, .mobile-call, .mobile-quote {
   display: inline-flex; align-items: center; justify-content: center;
   min-height: 44px; text-decoration: none;
