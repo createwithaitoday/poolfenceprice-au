@@ -1,0 +1,12 @@
+Options -Indexes
+RewriteEngine On
+
+# Keep enquiry files out of the web root if they are ever placed here.
+RewriteRule ^leads/ - [F,L]
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<FilesMatch "\.(html|css|js|svg|webp|avif|jpg|jpeg|png|woff2|xml|txt)$">
+  Header set Cache-Control "public, max-age=604800"
+</FilesMatch>
