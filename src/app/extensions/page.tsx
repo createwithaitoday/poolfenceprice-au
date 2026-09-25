@@ -21,7 +21,7 @@ export default function ExtensionsPage() {
       <div className="wrap">
         <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Extensions", path: "/extensions/" }]} />
         <div className="split">
-          <img src="/images/colorbond-fence-lattice-extension.jpg" alt="Colorbond fence with a lattice extension above the sheet" width={594} height={446} />
+          <img src="/images/gallery/colorbond-louvre-pool-fencing-jpg.jpg" alt="Grey Colorbond fence with a louvre extension beside a pool" width={1200} height={900} />
           <div>
             <h1>Pool-compliant Colorbond fence extensions</h1>
             <p>Sheet infill, louvre, slat and lattice can raise an existing boundary fence. The extension has to be designed and installed for the pool barrier requirements that apply. Raising a fence does not, by itself, make it compliant.</p>

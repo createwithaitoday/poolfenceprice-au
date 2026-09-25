@@ -11,7 +11,7 @@ const serif = Source_Serif_4({ subsets: ["latin"], variable: "--font-serif", dis
 
 export const metadata: Metadata = {
   metadataBase: new URL(business.domain),
-  title: { default: "Pool Fencing Sydney | Supply & Installation | Fencing Sydney", template: "%s | Fencing Sydney" },
+  title: { default: "Pool Fencing Sydney | Supply & Installation | Pool Fence Price", template: "%s | Pool Fence Price" },
   description: "Pool fencing Sydney. Black flat top, aluminium, glass, steel, gates and Colorbond extensions. Supply only or installation by licensed fencer Jye Fulton, licence 269038C.",
   openGraph: { type: "website", locale: "en_AU", siteName: "Pool Fence Price" },
   robots: { index: true, follow: true },

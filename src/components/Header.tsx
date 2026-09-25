@@ -32,8 +32,8 @@ export function Header() {
     <header className={`site-header${scrolled ? " scrolled" : ""}`}>
       <div className="wrap header-row">
         <Link href="/" className="logo" onClick={() => setOpen(false)}>
-          <strong>FENCING SYDNEY</strong>
-          <span>Pool fencing</span>
+          <strong>POOL FENCE PRICE</strong>
+          <span>Sydney pool fencing</span>
         </Link>
         <nav className="nav" aria-label="Primary">
           <Link href="/pool-fencing/">Pool Fencing</Link>

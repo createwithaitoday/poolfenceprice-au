@@ -14,7 +14,7 @@ export default function HomePage() {
     <>
       <section className="hero">
         <div className="wrap hero-copy">
-          <p className="eyebrow">Fencing Sydney · Licence {business.licence}</p>
+          <p className="eyebrow">Pool Fence Price · Licence {business.licence}</p>
           <h1>Pool fencing Sydney</h1>
           <p className="lede">Supply and installation across Sydney. Modern pool fencing, gates and barrier solutions from NSW licensed fencer {business.contact}.</p>
           <div className="hero-actions">
@@ -35,13 +35,13 @@ export default function HomePage() {
             <div className="coping" />
             <div className="rails" />
           </div>
-          <img className="hero-photo" src="/images/black-flat-top-aluminium-fence.jpg" alt="" width={1620} height={640} />
+          <img className="hero-photo" src="/images/gallery/pool-fencing-2-jpg.jpg" alt="" width={1200} height={1600} />
         </div>
       </section>
 
       <section className="section">
         <div className="wrap split">
-          <img src="/images/black-flat-top-aluminium-fence.jpg" alt="Black flat top aluminium pool fence with a level top rail and vertical bars" width={1620} height={640} />
+          <img src="/images/gallery/poolfencingflattopfencing-jpg.jpg" alt="Black flat top pool fence around a pool under construction" width={1200} height={800} />
           <div>
             <p className="kicker">Flagship product</p>
             <h2>Black flat top pool fencing</h2>
